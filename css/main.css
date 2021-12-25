@@ -1,0 +1,23 @@
+.main {
+    float:left;
+    flex: 80%;
+    padding: 20px;
+    background-color: cornflowerblue;
+}
+
+.main h2{
+    margin-bottom: 10px;
+}
+
+.main img {
+    float: left;
+    margin-right: 15px;
+    width: 40%;
+    height: auto;
+}
+
+
+.main_content{
+    overflow: auto;
+}
+

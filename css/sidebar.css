@@ -1,0 +1,47 @@
+.sidebar {
+    float:left;
+    flex:20%;
+    border-right: 1px solid rgb(175, 174, 174);
+}
+.profile {
+    max-width: 100%;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(175, 174, 174);
+    box-sizing: border-box;
+}
+
+.profile img {
+    margin: 15px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.profile h4 {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.profile p {
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+.menu {
+    display: block;
+    padding-left: 70px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    line-height : 40px;
+}
+
+menu a:hover {
+    font-weight: 1000;
+}
+
+
+
+
+
+
