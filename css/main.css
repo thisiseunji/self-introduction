@@ -1,23 +1,33 @@
 .main {
     float:left;
     flex: 80%;
-    padding: 20px;
-    background-color: cornflowerblue;
+    padding: 10px;
+    
 }
 
 .main h2{
+    padding: 4px;
     margin-bottom: 10px;
+    background-color: rgb(243, 243, 243);
 }
 
 .main img {
+    max-width: 400px;
     float: left;
     margin-right: 15px;
     width: 40%;
     height: auto;
 }
 
+.main_p{
+    font-size: 15px;
+}
 
 .main_content{
     overflow: auto;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    
 }
 

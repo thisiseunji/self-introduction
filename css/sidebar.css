@@ -30,14 +30,15 @@
 
 .menu {
     display: block;
-    padding-left: 70px;
-    padding-top: 40px;
-    padding-bottom: 50px;
+    margin: 40px 0px;
+    margin-right: 3px;
     line-height : 40px;
 }
 
-menu a:hover {
-    font-weight: 1000;
+.menu a:hover {
+    background-color: rgb(243, 243, 243);
+    font-weight: 900;
+    display: block;
 }
 
 
