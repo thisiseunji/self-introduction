@@ -4,6 +4,9 @@
 @import "header.css";
 @import "sidebar.css";
 @import "main.css";
+@import "nickname.css";
+@import "hobby.css";
+@import "jeonju.css";
 
 body{
     font-family: 'IBM Plex Sans KR', sans-serif;
