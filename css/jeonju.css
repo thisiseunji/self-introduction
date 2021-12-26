@@ -13,9 +13,9 @@
     font-size: 10px;
 }
 
-
 .jeonju_content img {
     max-height: 150px;
+    width: auto;
     margin-right: 10px;
 }
 
